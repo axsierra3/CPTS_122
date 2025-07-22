@@ -1,0 +1,22 @@
+﻿  AttendanceTracker.cpp
+  Data.cpp
+C:\Users\arantxasierra\source\repos\Sierra_PA7Templates\AttendanceTracker.cpp(82,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arantxasierra\source\repos\Sierra_PA7Templates\AttendanceTracker.cpp(86,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arantxasierra\source\repos\Sierra_PA7Templates\AttendanceTracker.cpp(90,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arantxasierra\source\repos\Sierra_PA7Templates\AttendanceTracker.cpp(94,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arantxasierra\source\repos\Sierra_PA7Templates\AttendanceTracker.cpp(98,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arantxasierra\source\repos\Sierra_PA7Templates\AttendanceTracker.cpp(102,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arantxasierra\source\repos\Sierra_PA7Templates\AttendanceTracker.cpp(106,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arantxasierra\source\repos\Sierra_PA7Templates\AttendanceTracker.cpp(199,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arantxasierra\source\repos\Sierra_PA7Templates\AttendanceTracker.cpp(203,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arantxasierra\source\repos\Sierra_PA7Templates\AttendanceTracker.cpp(207,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arantxasierra\source\repos\Sierra_PA7Templates\AttendanceTracker.cpp(208,21): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arantxasierra\source\repos\Sierra_PA7Templates\AttendanceTracker.cpp(212,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arantxasierra\source\repos\Sierra_PA7Templates\AttendanceTracker.cpp(216,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arantxasierra\source\repos\Sierra_PA7Templates\AttendanceTracker.cpp(220,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arantxasierra\source\repos\Sierra_PA7Templates\AttendanceTracker.cpp(224,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arantxasierra\source\repos\Sierra_PA7Templates\AttendanceTracker.cpp(230,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arantxasierra\source\repos\Sierra_PA7Templates\AttendanceTracker.cpp(237,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  Sierra_PA7Templates.vcxproj -> C:\Users\arantxasierra\source\repos\Sierra_PA7Templates\x64\Debug\Sierra_PA7Templates.exe

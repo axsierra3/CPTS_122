@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\arantxasierra\source\repos\Sierra_PA5_Queues\Main.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\arantxasierra\source\repos\Sierra_PA5_Queues\Main.cpp(19,12): warning C4101: 'test': unreferenced local variable
+  Queue.cpp
+  QueueNode.cpp
+  testQueue.cpp
+  Generating Code...
+  Sierra_PA5_Queues.vcxproj -> C:\Users\arantxasierra\source\repos\Sierra_PA5_Queues\ARM64\Debug\Sierra_PA5_Queues.exe
