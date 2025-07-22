@@ -1,4 +1,0 @@
-﻿  main.c
-C:\Users\arantxasierra\source\repos\CS_122\FitbitTracker\main.c(49,11): warning C4090: 'function': different 'const' qualifiers
-C:\Users\arantxasierra\source\repos\CS_122\FitbitTracker\main.c(43,39): warning C4305: 'initializing': truncation from 'int' to 'char'
-  FitbitTracker.vcxproj -> C:\Users\arantxasierra\source\repos\CS_122\FitbitTracker\ARM64\Debug\FitbitTracker.exe
