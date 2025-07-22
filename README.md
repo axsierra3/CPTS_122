@@ -1,4 +1,7 @@
 # CPTS_122 C/C++ Data Structures
+
+Projects completed in CPTS 122 (Data Structures in C/C++ )
+
 Topics explored and implemented:
 -Doubly and singly linked lists
 
