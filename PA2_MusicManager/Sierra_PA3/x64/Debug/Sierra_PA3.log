@@ -1,0 +1,56 @@
+﻿  Main.c
+  MusicManager.c
+C:\Users\arantxasierra\source\repos\Sierra_PA3\MusicManager.h(105,6): warning C4031: second formal parameter list longer than the first list
+  (compiling source file 'Main.c')
+  
+C:\Users\arantxasierra\source\repos\Sierra_PA3\MusicManager.h(105,6): warning C4028: formal parameter 1 different from declaration
+  (compiling source file 'Main.c')
+  
+C:\Users\arantxasierra\source\repos\Sierra_PA3\MusicManager.h(105,6): warning C4273: 'exit': inconsistent dll linkage
+  (compiling source file 'Main.c')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdlib.h(56,48):
+      see previous definition of 'exit'
+  
+C:\Users\arantxasierra\source\repos\Sierra_PA3\Main.c(19,8): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\arantxasierra\source\repos\Sierra_PA3\Main.c(42,10): warning C4047: '=': 'Node *' differs in levels of indirection from 'Node **'
+C:\Users\arantxasierra\source\repos\Sierra_PA3\Main.c(105,10): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[25]'
+C:\Users\arantxasierra\source\repos\Sierra_PA3\Main.c(105,10): warning C4024: 'fgets': different types for formal and actual parameter 1
+C:\Users\arantxasierra\source\repos\Sierra_PA3\Main.c(123,10): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[25]'
+C:\Users\arantxasierra\source\repos\Sierra_PA3\Main.c(123,10): warning C4024: 'fgets': different types for formal and actual parameter 1
+C:\Users\arantxasierra\source\repos\Sierra_PA3\Main.c(141,10): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[25]'
+C:\Users\arantxasierra\source\repos\Sierra_PA3\Main.c(141,10): warning C4024: 'fgets': different types for formal and actual parameter 1
+C:\Users\arantxasierra\source\repos\Sierra_PA3\Main.c(153,10): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[25]'
+C:\Users\arantxasierra\source\repos\Sierra_PA3\Main.c(153,10): warning C4024: 'fgets': different types for formal and actual parameter 1
+C:\Users\arantxasierra\source\repos\Sierra_PA3\Main.c(59,9): warning C4101: 'buff': unreferenced local variable
+C:\Users\arantxasierra\source\repos\Sierra_PA3\MusicManager.h(105,6): warning C4031: second formal parameter list longer than the first list
+  (compiling source file 'MusicManager.c')
+  
+C:\Users\arantxasierra\source\repos\Sierra_PA3\MusicManager.h(105,6): warning C4028: formal parameter 1 different from declaration
+  (compiling source file 'MusicManager.c')
+  
+C:\Users\arantxasierra\source\repos\Sierra_PA3\MusicManager.h(105,6): warning C4273: 'exit': inconsistent dll linkage
+  (compiling source file 'MusicManager.c')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdlib.h(56,48):
+      see previous definition of 'exit'
+  
+C:\Users\arantxasierra\source\repos\Sierra_PA3\MusicManager.c(80,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arantxasierra\source\repos\Sierra_PA3\MusicManager.c(104,12): warning C4047: 'function': 'Node **' differs in levels of indirection from 'Node ***'
+C:\Users\arantxasierra\source\repos\Sierra_PA3\MusicManager.c(104,12): warning C4024: 'initList': different types for formal and actual parameter 1
+C:\Users\arantxasierra\source\repos\Sierra_PA3\MusicManager.c(120,11): warning C4047: 'function': 'Node **' differs in levels of indirection from 'Node ***'
+C:\Users\arantxasierra\source\repos\Sierra_PA3\MusicManager.c(120,11): warning C4024: 'insert': different types for formal and actual parameter 1
+  Test.c
+C:\Users\arantxasierra\source\repos\Sierra_PA3\MusicManager.h(105,6): warning C4031: second formal parameter list longer than the first list
+  (compiling source file 'Test.c')
+  
+C:\Users\arantxasierra\source\repos\Sierra_PA3\MusicManager.h(105,6): warning C4028: formal parameter 1 different from declaration
+  (compiling source file 'Test.c')
+  
+C:\Users\arantxasierra\source\repos\Sierra_PA3\MusicManager.h(105,6): warning C4273: 'exit': inconsistent dll linkage
+  (compiling source file 'Test.c')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdlib.h(56,48):
+      see previous definition of 'exit'
+  
+  Generating Code...
+C:\Users\arantxasierra\source\repos\Sierra_PA3\MusicManager.c(22,1): warning C4715: 'createNode': not all control paths return a value
+     Creating library C:\Users\arantxasierra\source\repos\Sierra_PA3\x64\Debug\Sierra_PA3.lib and object C:\Users\arantxasierra\source\repos\Sierra_PA3\x64\Debug\Sierra_PA3.exp
+  Sierra_PA3.vcxproj -> C:\Users\arantxasierra\source\repos\Sierra_PA3\x64\Debug\Sierra_PA3.exe
